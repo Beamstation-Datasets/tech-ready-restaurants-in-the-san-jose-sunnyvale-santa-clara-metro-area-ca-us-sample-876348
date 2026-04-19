@@ -9,9 +9,9 @@
 | Dataset ID | `876348` |
 | Location | San Jose-Sunnyvale-Santa Clara, CA |
 | Category | Restaurants |
-| Full dataset size | 13 records |
-| Free sample size | 1 records (7.69%) |
-| Last export | 2026-04-08T03:34:18.924847+00:00 |
+| Full dataset size | 11 records |
+| Free sample size | 1 records (9.09%) |
+| Last export | 2026-04-15T08:24:06.213338+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-san-jose-sunnyvale-santa-clara-metro-area-ca-us-sample-876348/releases/download/sample-latest/beamstation_876348_restaurants-us-sanjosesunnyvalesantaclaraca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
