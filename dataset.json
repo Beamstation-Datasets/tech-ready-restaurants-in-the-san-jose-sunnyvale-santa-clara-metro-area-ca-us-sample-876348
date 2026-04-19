@@ -6,17 +6,17 @@
   "config_category": "sales",
   "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
   "config_name": "Tech-Ready Restaurants in the San Jose-Sunnyvale-Santa Clara Metro Area, CA, US",
-  "export_job_id": "4ae32a62-1394-4cc1-ac5d-1617d416c6f6",
+  "export_job_id": "c9940ca2-2991-4b1c-8d1b-26051b8dbccf",
   "github_org": "Beamstation-Datasets",
   "id_short": 876348,
   "location_name": "San Jose-Sunnyvale-Santa Clara, CA",
   "location_type": "metro",
   "repo_name": "tech-ready-restaurants-in-the-san-jose-sunnyvale-santa-clara-metro-area-ca-us-sample-876348",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/876348/beamstation_876348_restaurants-us-sanjosesunnyvalesantaclaraca_SAMPLE_DIST.csv",
-  "sample_pct": 7.69,
+  "sample_pct": 9.09,
   "sample_records": 1,
   "sample_sha256": "be8fbac1da8b6d52902925a4eeaa5acde32a725a48a90c8f590227f2f482baea",
   "sample_size_bytes": 19830,
-  "total_records": 13,
-  "updated_at": "2026-04-08T03:34:18.924847+00:00"
+  "total_records": 11,
+  "updated_at": "2026-04-15T08:24:06.213338+00:00"
 }
