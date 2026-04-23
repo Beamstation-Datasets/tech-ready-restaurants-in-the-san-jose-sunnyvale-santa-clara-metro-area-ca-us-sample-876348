@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c9940ca2-2991-4b1c-8d1b-26051b8dbccf",
+  "export_job_id": "9b561c1f-96f8-434e-878a-faf718b7d3eb",
   "id_short": 876348,
-  "published_at": "2026-04-19T07:53:11Z",
+  "published_at": "2026-04-23T07:14:00Z",
   "repo_name": "tech-ready-restaurants-in-the-san-jose-sunnyvale-santa-clara-metro-area-ca-us-sample-876348",
   "sample_asset_name": "beamstation_876348_restaurants-us-sanjosesunnyvalesantaclaraca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/876348/beamstation_876348_restaurants-us-sanjosesunnyvalesantaclaraca_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "be8fbac1da8b6d52902925a4eeaa5acde32a725a48a90c8f590227f2f482baea",
-  "sample_size_bytes": 19830,
-  "total_records": 11
+  "sample_sha256": "f82cfe00200b9cf2200b28f371ee96d9ea37d487f512aaa98dbe88bbd24a74ac",
+  "sample_size_bytes": 19780,
+  "total_records": 6
 }
